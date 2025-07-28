@@ -1,0 +1,48 @@
+RONIT SINGH | FULL STACK DEVELOPER 
+ 
+ +91 9999406858  |  ✉ ronitsingh2112@gmail.com  |  linkedin | ೕ  github.com |   Portfolio |  Delhi NCR, India  
+ 
+EDUCATION 
+B.Tech - Computer Science  
+Trinity Institute of Innovations in Professional  Studies, IP University | Sep, 2019 - Aug, 2023 
+Secondary Education 
+St. Xavier’s Sr. Sec. School, Delhi | Apr, 2017 - Apr, 2019 
+WORK EXPERIENCE 
+Application Developer uCertify | Sep, 2023 - Feb, 2025 
+● Integrated AI tutor within the platform, providing predefined prompts , capable of answering user questions 
+based on the current course reading, providing personalised and context-aware assistance to enhance the 
+learning experience. 
+● Integrated OpenAI endpoints with the platform, implementing a bypass that allows multiple users to access 
+the API using a special key, while securely using our own key in the background to retrieve and display 
+responses. These endpoints were used inside labs. 
+● Contributed to upgrading the platform to Bootstrap 5.2, improving the overall UI and design. 
+● Implemented uCertify certifications from scratch, streamlining the entire process from purchasing a voucher 
+to receiving the certificate, displaying it on the profile page, and showcasing success. 
+● Key contributor to the project upgrading the platform from PHP 7.3 to PHP 8.2. 
+● Contributed to various other projects including Time on Task, Library Subscription, and UI enhancements. 
+● Resolved over 75 bugs to improve platform stability. 
+Freelance | 
+Professional Salon Website  
+I developed a fully responsive website for a client based on their specific requirements, focusing on the 
+frontend to ensure a seamless user experience and design that aligned perfectly with their vision. 
+SKILLS 
+HTML5, CSS3, JavaScript, Bootstrap5, ReactJs, NodeJs,  Angular, Java, Git & Github, TailwindCSS, TypeScript, 
+PHP, SCSS, Rest API, Smarty, MySQL, Docker. 
+PERSONAL PROJECTS 
+Shop-kart    
+Shop-kart is an e-commerce app that is made using nodeJs & expressJs. Users can perform crud operations on 
+products. App is fully authenticated and uses MongoDB to store data. 
+Coin.Exch   
+CoinExch is a crypto app that allows users to search for various cryptocurrencies in real-time. It uses Rest API 
+to fetch real-time data. 
+Netflix Clone   
+A react application that uses REST API to fetch. Real-time movie data and also categorised according to genres. 
+Car-Rental Application   
+A react application that allows users to book their car of dream for personal use or for business requirements. 
+Application provides an interface to compare and reserve cars. 
+Recipe Book   
+Is a single page application where users can CRUD a recipe . App has two major sections i.e., recipes and carts 
+Application is fully authenticated. 
+Gymate   
+A fitness app that allows users to book gym sessions and also calculate their BMI. React and tailwind used for 
+frontend.
