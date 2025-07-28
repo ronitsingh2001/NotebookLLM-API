@@ -68,8 +68,15 @@ const preUploadCleanup = (req, res, next) => {
   next();
 };
 
+/**
+ * Test if server is running
+ */
 app.get("/", (req, res) => res.json({ message: "Server is running" }));
 
+/**
+ * Uploads a PDF file and stores it on the server.
+ * Uses multer for handling multipart/form-data.
+ */
 app.post("/upload", preUploadCleanup, upload.single("pdf"), async (req, res) => {
   try {
     if (!req.file) {
