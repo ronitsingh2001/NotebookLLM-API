@@ -48,7 +48,11 @@ const upload = multer({
   },
 });
 
-app.use("/pdfs", express.static(UPLOAD_DIR));
+app.use("/pdfs", (req, res, next) => {
+    res.setHeader("Access-Control-Allow-Origin", "*");
+    next();
+  }, express.static(UPLOAD_DIR));
+  
 
 const clearDirectory = (dirPath) => {
   if (fs.existsSync(dirPath)) {
